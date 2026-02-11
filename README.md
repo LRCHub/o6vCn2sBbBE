@@ -1,0 +1,49 @@
+# Luther Vandross – Never Too Much
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:37.92] I can't fool myself, I don't want nobody else to ever love me
+[00:42.42] You are my shinin' star, my guiding light, my love fantasy
+[00:46.74] There's not a minute, hour, day or night that I don't love you
+[00:50.78] You're at the top of my list 'cause I'm always thinkin' of you
+[01:21.78] 
+[00:55.34] I still remember in the days when I was scared to touch you
+[00:59.78] How I spent my day dreamin' plannin' how to say I love you
+[01:04.14] You must have known that I had feelings deep enough to swim in
+[01:08.34] That's when you opened up your heart and you told me to come in
+[01:39.84] 
+[01:12.69] Oh, my love
+[01:17.99] A thousand kisses from you is never too much
+[01:26.65] I just don't wanna stop
+[01:29.74] Oh, my love
+[01:35.11] A million days in your arms is never too much
+[01:44.13] I just don't wanna stop
+[01:47.06] Too much, never too much, never too much, never too much
+[02:15.06] 
+[02:10.05] Woke up today, looked at your picture just to get me started
+[02:14.55] I called you up, but you weren't there and I was broken hearted
+[02:18.80] Hung up the phone, can't be too late, the boss is so demandin'
+[02:23.16] Opened the door up and to my surprise, there you were standin'
+[02:54.16] 
+[02:27.60] Well, who needs to go to work to hustle for another dollar
+[02:31.89] I'd rather be with you 'cause you make my heart scream and holler
+[02:36.16] Love is a gamble and I'm so glad that I'm winnin'
+[02:40.68] We've come a long way and yet this is only the beginnin'
+[03:08.68] 
+[02:44.67] Oh, my love
+[02:49.62] A thousand kisses from you is never too much
+[02:54.82] (Never too much, never too much, never too much)
+[02:58.87] I just don't wanna stop
+[03:02.06] Oh, my love
+[03:07.44] A million days in your arms is never too much
+[03:12.36] (Never too much, never too much, never too much)
+[03:15.91] And I just don't wanna stop
+[03:29.41] 
+[03:19.36] Oh, my love
+[03:24.88] A thousand kisses from you is never
+[03:29.16] (Never too much, never too much, never too much)
+[03:33.65] I just don't wanna stop
+[03:36.83] Oh, my love
+[03:42.14] A million days in your arms is never too much
+```
