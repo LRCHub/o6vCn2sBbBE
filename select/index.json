@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Never Too Much",
+  "base_artist": "Luther Vandross",
+  "createdAt": "2026-02-11T12:51:23.221355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/01_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/02_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/03_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/04_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/05_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Too Much ('89 Remix)",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/06_Never_Too_Much_('89_Remix)_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Too Much (Live)",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/07_Never_Too_Much_(Live)_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/08_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/09_Never_Too_Much_Luther_Vandross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Too Much",
+      "artist": "Luther Vandross",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Too_Much_Luther_Vandross.txt"
+    }
+  ]
+}
